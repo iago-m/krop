@@ -56,3 +56,4 @@ setup(
             'Environment :: X11 Applications :: Qt',
         ],
 )
+
